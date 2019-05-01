@@ -115,7 +115,7 @@ o Nicht immer Ein Link
   Am Ende jeder Seite gibt es ein paar Links aufzufinden die in verschiedene Kategorien eingeteilt werden. Allerdings sind 2 dieser Kategorientitel Links und 2 nicht
 
   Screenshots:
-  n/A
+  n-JP-Links.mp4
   
 
   Heuristik: Konsistenz
@@ -127,7 +127,7 @@ o Unterschiedlich Link Markierung
   Am Ende jeder Seite gibt es 2 Grau hinterlegte Felder die durch eine weiße Linie unterteilt werden. In jedem dieser Felder sind Links. Fährt man im oberen über einen Link wird der Text dunkler, unten wird der Text unterstrichen
 
   Screenshots:
-  n/A
+  n-JP-Links2.mp4
 
   Heuristik: Konsistenz
 
