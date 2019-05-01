@@ -1,0 +1,210 @@
+Evaluator: Mahamood Attia
+Alter: 25
+Geschlecht: männlich
+Gerät: MacBook Pro (15-inch, 2016)
+Betriebssystem und Version: macOS 10.14.4 (18E226)
+Webbrowser und Version: Safari 12,1
+Ad Blocker: OFF
+Internetverbindung Typ: A1 WLAN
+Internetverbindung Download Geschwindigkeit: 8 mbps
+Bildschirmgröße: 15,4"
+Bildschirmauflösung: 2880 x 1800
+Browserauflösung: 1680 x 987
+Datum der Evaluierung: 2019-04-28
+Uhrzeit der Evaluierung: 13:00-15:30
+
+
+Positive Beobachtungen
+----------------------
+
+o Seite ist aufgeräumt
+
+  Die website macht einen sehr professionellen Eindruck und sieht sehr aufgeräumt aus.
+
+  Screenshot:  p01-ma-Aufgeräumt.png
+
+  Wie reproduzierbar:  https://www.upc.at/
+
+
+o Feedback für den Benutzer
+
+  Der Nutzer bekommt Feedback und weiß sofort was er anklicken kann.
+
+  Video clip:  p02-ma-feedback.mov
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Seitenmitte
+
+
+o Homebutton
+
+  Seitenende und Seitenanfang befindet sich immer ein Homebutton, der zur schnellen Rückkehr zur Startseite dient.
+
+  Screenshots:  p03-ma-home-Seitenanfang.png
+                p03-ma-home-Seitenende.png
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Seitenanfang und Seitenende
+
+
+o Popup hilfreich
+
+  Navigiert man etwas auf der Seite erscheint ein kleines Fenster mit wichtigen Informationen.
+
+  Screenshot:  p04-ma-Popup.png
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Aktionspakete -> etwas herum scrollen
+
+
+o Könnte Sie auch interessieren
+
+  Je nachdem in welcher Kategorie man sich befindet, werden einem verwandte Themen vorgeschlagen, was die Navigation vereinfacht.
+
+  Screenshot:  p05-ma-Koennte-Interessieren.png
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Fernsehen -> TV Produkte -> Seitenmitte - Seitenende
+
+
+
+Probleme
+--------
+
+o Links sind nicht als Solche erkennbar
+
+  Ganz oben bei der Internetseite sind drei Links (Privatkunden, Selbstständige & Kleinunternehmen, Unternehmenslösungen), die aber nicht als solche Erkennbar sind.
+
+  Screenshot:  n01-ma-Erkennbarkeit.png  
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Seitenbeginn
+
+
+o Manche Texte lassen sich anklicken, andere wiederum nicht
+
+  Gleiche Überschriften lassen sich manchmal anklicken, jedoch nicht alle!
+
+  Video clip:    n02-ma-Konsistenz.mov 
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Seitenende
+
+
+o Kein erkennbares System hinter den Links
+
+  Für jeden Bereich gibt es ein andere Feedback von der Seite zu den Links und es ist kein verständliches Muster dahinter zu erkennen.
+
+  Video clip:    n03-ma-Links.mov
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  https://www.upc.at/ von oben nach unten durch navigieren
+
+
+o Warnhinweis ist nicht als Solches erkennbar
+
+  Warnhinweis hat nicht die gewohnte Form und um es zu bestätigen, muss ein blaues "DISMISS" geklickt werden.
+
+  Screenshot:  n04-ma-Warnhinweis.png  
+
+  Heuristik:  Sprache des Benutzers verwenden
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Internet -> Spendetest -> Seitenmitte
+
+
+o Kahles design auf der Seite
+
+  Eine Schrittweise Anweisung wird einfach als Text auf einem Weißen Hintergrund angezeigt. 
+
+  Screenshot:  n05-ma-kahl.png  
+
+  Heuristik:  Ästhetik und minimales Design / Sprache des Benutzers verwenden
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Internet -> Spendetest -> Seitenmitte-Seitenende
+
+
+o Unverstänliche Symbole
+
+  Drei Symbole (Ping, Download, Upload), die wie anklickbare Links aussehen, die aber keine Funktion haben und nach Ausführung des Spendetests einfach verschwinden.
+
+  Screenshot:  n06-ma-unverstänliche-Symbole.png  
+
+  Heuristik:  Sprache des Benutzers verwenden
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Internet -> Spendetest -> Seitenmitte
+
+
+o Überlappung
+
+  Ist man mit dem Mousezeiger über dem Menüpunkt "Sicherheit", öffnet sich ein kleines Fenster mit zwei Unterpunkten, wobei es einfach ein weißes Viereck ist und keine Klare Abtrennung zum Hintergrund vorhanden ist!
+
+  Screenshot:  n07-ma-ueberlappung.png  
+
+  Heuristik:  Ästhetik und minimales Design
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Internet -> Mousezeiger über "Sicherheit"
+
+
+o Gleiche Fenster unterschiedliche Designs
+
+  Drei Fenster, die ähnlich aufgebaut sind aber jedes der Fenster hat ein komplett anderes Design.
+
+  Screenshot:  n08-ma-unterschiedliche-Fenster.png  
+
+  Heuristik:  Konsistenz
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Internet -> Seitenende
+
+
+o Weiterleitung auf eine Website von der man kaum zurück kommt
+
+  Klickt man auf den Menüpunkt "Online TV Guide" wird man auf eine andere Seite weitergeleitet. Will man nun zurück, muss man zwei mal klicken, weil beim ersten Mal kein Feedback zu sehen ist.
+
+  Video clip:  n10-ma-feedback.mov  
+
+  Heuristik:  Umkehrbare Aktionen / Rückmeldung des Systemzustandes (Feedback)
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Fernsehen -> Online TV Guide -> zurück
+
+
+o "Mehr Info" zum Einklappen
+
+  Klickt man auf "Mehr Info" kann das Aufklappen nur durch erneutes Klicken auf "Mehr Info" geschlossen werden, obwohl man sich nicht erwartet dass bei mehr das Klappmenü geschlossen wird!
+
+  Video clip:  n11-ma-verbergen-mehr-Anzeigen.mov 
+
+  Heuristik:  Sprache des Benutzers verwenden
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Mobile -> Handytarife -> Seitenmitte "Mehr Info"
+
+
+o Sichtbarkeit der Seite auf der man Sich befindet
+
+  Im Menüpunkt ist der Punkt auf den man sich befindet normalerweise blau hinterlegt, was aber nicht immer der Fall ist.
+
+  Video clip:  n12-ma-Sichtbarkeit-aktuelle-Seite.mov 
+
+  Heuristik:  Rückmeldung des Systemzustandes (Feedback)
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Mobile -> Handytarife -> Tarife mit Handy
+
+
+o Hintergrund und Bild sind kaum auseinanderzuhalten
+
+  Die Farben sind kaum auseinanderzuhalten, was das erkennen des Bildes sehr schwer macht.
+
+  Screenshot:  n13-ma-Farbwahl.png 
+
+  Heuristik:  Ästhetik und minimales Design
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Kundenservice
+
+
+o Shopliste zu scrollen, nicht erkennbar
+
+  Die Shopliste ist nicht erkennbar als Liste in der man Scrollen kann. Erst nachdem man beginnt zu scrollen, erscheint ein Balken, der zeigt, wie weit es nach unten geht.
+
+  Video clip:  n14-ma-scrollen.mov 
+
+  Heuristik:  Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar:  https://www.upc.at/ -> Kundenservice -> Handytarife -> Kontakt -> Shopfinder -> Seitenmitte rechts

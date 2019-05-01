@@ -1,0 +1,203 @@
+﻿Evaluator: Joachim Pollanz
+Alter: 21
+Geschlecht: männlich
+Gerät: TERRA_MOBILE_1529H
+Betriebssystem und Version: Windows 10 Pro 10.0.17763 Build 17763
+Webbrowser und Version: Mozilla Firefox 66.0.2 (64-bit)
+Ad Blocker: uBlock Origin v1.18.6
+Internetverbindung Typ: eduroam (FH-Joanneum)
+Internetverbindung Download Geschwindigkeit: 47,3 Mb/s
+Bildschirmgröße: 15,6″
+Bildschirmauflösung: 1366x768
+Browserauflösung: 1366×604
+Datum der Evaluierung: 2019-04-11	2019-04-30
+Uhrzeit der Evaluierung: 11:41		16:45
+
+
+Positive Beobachtungen
+----------------------
+
+o Guter Pfad
+
+  Am Ende der Seite kann man sehen wie Tief man in einem Unterpunkt ist und kann dort auf frühere unterpunkte clicken um dort hinzugelangen
+
+  Screenshots:
+  p-JP-Pfad.PNG
+
+  Wie reproduzierbar: Am Ende von Seiten zu finden
+
+o Downloadable content
+
+  Man kann im Kundenservice Anleitungen und ähnliche Dinge als PDF Datein downloaden 
+
+  Screenshots:
+  p-JP-DLC.mp4
+
+  Wie reproduzierbar: Auf Seite "Kundenservice" zB in der Unterkategorie "Fernsehen" "Anleitungen" auswählen
+
+
+Probleme
+--------
+
+o Redundanz unter Kundenservice
+
+  es gibt beim Kundenservice sowohl oben drop down listen als auch generell Felder die einen das selbe auswählen lassen
+
+  Screenshots:
+  n-JP-KundenserviceRedundanz.PNG
+  n-JP-KundenserviceRedundanz2.PNG
+  n-JP-KundenserviceRedundanz3.PNG
+  n-JP-KundenserviceRedundanz4.PNG
+
+  Heuristik: Ästhetik und minimales Design
+
+  Wie reproduzierbar: Startseite -> "Kundenservice" anlcicken
+
+o Andere Designs
+
+  Die auflistung der verschiedenen Unterbereiche hat auf zwei Seiten ein anderes Design
+
+  Screenshots:
+  n-JP-Designkonsistenz.PNG
+  n-JP-Designkonsistenz2.PNG
+
+  Heuristik: Konsistenz
+
+  Wie reproduzierbar: Seiten "Kundenservice" und dessen unterseite "FAQs" öffnen
+
+o Fehlermeldung fehlt
+
+  wenn man bei verfügbarkeitscheck eine falsche straße eingibt wird einem nichtangezeigt dass es die Straße nicht gibt sobald man aus dem Feld clickt
+
+  Screenshots:
+  n-JP-Fehlermeldung.mp4
+
+  Heuristik: Gute Fehlermeldungen
+
+  Wie reproduzierbar: im verfügbarkeitschecker eine Straße eingeben die nicht in der angegebenen Postleitzahl liegt und aus dem Eingabefeld rausclickt
+
+o Weg zum Streamingservice
+
+  Es gibt keinen einfachen Weg um zur Startseite des UPC Streamingservice "UPC On Demand" zu gelangen. der einzige gefundene Weg führt dort nur über umwege
+
+  Screenshots:
+  n-JP-OnDemand.mp4
+
+  Heuristik: Flexibilität und Effizienz
+
+  Wie reproduzierbar: Auf hauptseite einen film von On Demand anclicken von dort links oben zur startseite von On Demand
+
+o Unnötiges Popup
+
+  Auf vielen seiten gibt es am linken bildschirmrand ein Popup welches nach einigen Sekunden sich öffnet und Teile der Seiteninformationen verdeckt
+
+  Screenshots:
+  n-JP-Popup.mp4
+
+  Heuristik: Ästhetik und minimales Design
+
+  Wie reproduzierbar: zB auf "Angebotspakete" clicken und warten bis Kontakte ausfährt
+
+o Popup
+
+  Bei dem Kontakt Popup wird die Bestellhotline Nummer angegeben anstatt einer der Kontakt Nummern
+
+  Screenshots:
+  n-JP-BestellhotlineNr.PNG
+  n-JP-BestellhotlineNr2.PNG
+
+  Heuristik: Fehlervermeidung
+
+  Wie reproduzierbar: auf die "Kontakte" seite gehen und die Bestellhotline Nummer mit der im Popup vergleichen
+
+o Nicht immer Ein Link
+
+  Am Ende jeder Seite gibt es ein paar Links aufzufinden die in verschiedene Kategorien eingeteilt werden. Allerdings sind 2 dieser Kategorientitel Links und 2 nicht
+
+  Screenshots:
+  n/A
+  
+
+  Heuristik: Konsistenz
+
+  Wie reproduzierbar: auf jeder Seite am Ende der Seite zu finden
+
+o Unterschiedlich Link Markierung
+
+  Am Ende jeder Seite gibt es 2 Grau hinterlegte Felder die durch eine weiße Linie unterteilt werden. In jedem dieser Felder sind Links. Fährt man im oberen über einen Link wird der Text dunkler, unten wird der Text unterstrichen
+
+  Screenshots:
+  n/A
+
+  Heuristik: Konsistenz
+
+  Wie reproduzierbar: Auf jeder Seite am Ende zu finden
+
+o Informations Popup zu groß
+
+  Manche Popups sind so groß dass der Knopf zum schließen fast nicht mehr zu sehen ist und man nichteinmal mehr das "X" sehen kann.
+
+  Screenshots:
+  n-JP-Popupgröße.PNG
+
+  Heuristik: Fehlervermeidung
+
+  Wie reproduzierbar: zB auf Seite "Aktionspakete" unter "TV Easy" auf das Feld "über 65 digitale [...] in HD" clicken
+
+o Unterkategorien nicht immer vorhanden
+
+  Nicht alle Überkategorien zeigen wenn man sie angeclickt hat unterkategorien an
+
+  Screenshots:
+  n-JP-Kategorien.PNG
+  n-JP-Kategorien2.PNG
+
+  Heuristik: Konsistenz
+
+  Wie reproduzierbar: Seiten "Aktionspakete" mit "Internet" vergleichen
+
+o Knopf inkonsistenz
+
+  Manche Knöpfe die tun unterschiedliche Dinge obwohl sie exakt gleich aussehen. einmal ist es ein Dropdown Knopf ein weiteres mal ein Link zu einer neuen Seite ein anderes mal wird man weiter unten auf die Seite geworfen
+
+  Screenshots:
+  n-JP-Knopf.mp4
+  n-JP-Knopf2.mp4
+
+  Heuristik: Konsistenz
+
+  Wie reproduzierbar: auf Seite "Internet" gehen und die Knöpfe bei "Du möchtest dich nicht binden?" und "Für alle unter 30:" anclicken
+
+o Wi-Free
+
+  Einer der Unterpunkte auf der Seite "WLAN erleben" ist betitelt "Wi-Free" was nicht die Sprache des Benutzers ist
+
+  Screenshots:
+  n-JP-Wi-Free.PNG
+
+  Heuristik: Sprache des Benutzers verwenden
+
+  Wie reproduzierbar: Auf Seite "Internet"/"WLAN erleben" 
+
+o Fehlerhafte Bildshirmausrichtung
+
+  Wenn man zuerst das "Apple" Dropdown und anschließend das "Windows Phone 8.0" Dropdown öffnet wird man weiter unten auf der Seite geschmissen
+
+  Screenshots:
+  n-JP-Dropdown.mp4
+
+  Heuristik: Fehlervermeidung
+
+  Wie reproduzierbar: Dem Pfad "Internet"/"WLAN erleben"/Wi-Free" folgen dort Dropdown "Apple anclicken nach unten scrollen und Dropdown "Windows Phone 8.0" anclicken
+
+o Unterschiedliche Seiten
+
+  Man kann auf verschiedene Arten zu einer FAQ seite zu dem selben Thema gelangen es sind aber andere Seiten
+
+  Screenshots:
+  n-JP-FAQ.PNG
+  n-JP-FAQ2.PNG
+
+  Heuristik: Konsistenz
+
+  Wie reproduzierbar: unter "Kundenservice" Kategorien "Fernsehen"-"FAQs" und "FAQs"-"Fernsehen" vergleichen

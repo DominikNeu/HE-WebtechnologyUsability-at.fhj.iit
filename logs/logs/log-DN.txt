@@ -1,0 +1,435 @@
+﻿Evaluator: Dominik Neubauer
+Alter: 19
+Geschlecht: männlich
+Gerät: Samsung Galaxy A5 - 2017 (SM-A520F)
+Betriebssystem und Version: Android 8.0.0
+Webbrowser und Version: Chrome 73.0.3683.90
+Ad Blocker: Integriert von Chrome
+Internetverbindung Typ: A1 Net Cube-Internet Xcite 16, LTE
+Internetverbindung Download Geschwindigkeit: 72 mbps
+Bildschirmgröße: 5,2"
+Bildschirmauflösung: 1920x1080
+Browserauflösung: 1920x1080
+Datum der Evaluierung 1: 2019-04-05
+Uhrzeit der Evaluierung 1: 12:30-14:00
+Datum der Evaluierung 2: 2019-04-08
+Uhrzeit der Evaluierung 2: 17:15-18:30
+
+
+Positive Beobachtungen
+----------------------
+
+o Verständliche Sprache
+
+	Wenn man Anleitungen zu einem Problem sucht, ist diese Verständlich, also für alle
+	Nutzer zu gebrauchen.
+
+	Video clip:	p001-DN-UnderstandableSpeach.mp4
+
+	Wie reproduzierbar: Kundenservice/<Themengebiet> FAQ/ -> <Thema>
+
+o Links zu ähnlichen Artikeln in FAQ
+
+	Am Ende einer FAQ Seite findet man immer ander "Antworten, die andere hilfreich fanden"
+
+	Video clip:	p001-DN-RelevantLinks.jpg
+
+	Wie reproduzierbar: Kundenservice/<Themengebiet> FAQ/ -> <Thema> -> Fuß der Seite
+
+o Beispielbilder zur Anleitung im FAQ
+
+	Es werden Bilder als Beispiel zur Problemlösung zur Verfügung gestellt.
+
+	Video clip:	p002-DN-ExamplesInFAQ.mp4
+
+	Wie reproduzierbar: Kundenservice/<Themengebiet> FAQ/ -> <Thema>
+
+o PDFs zum downloaden im FAQ
+
+	Man kann Anleitungen im PDF-Format herunterladen vom FAQ.
+
+	Video clip:	p003-DN-PDFs.mp4
+
+	Wie reproduzierbar: Kundenservice/<Themengebiet>/Download
+
+o Aktionsbedingungen 
+
+	Aktionsbedingungen können gleich auf der Tarif-Seite angezeigt werden
+
+	Video clip:	p004-DN-PromotionDeals.mp4
+
+	Wie reproduzierbar: Startseite/<Tarif-Sparte> -> ganz hinunter scrollen -> Aktionsbedungungen
+
+Probleme
+--------
+
+o Es gibt idente Link-Belegungen auf Überschriften, Unterpunkten, Bilder und Button
+	
+	Im FAQ gibt es eine große Themenübersicht zu unterschiedlichen Bereichen (Fernsehen,
+	Internet, Mobile, ...) und zu jedem Bereich mehrere Unterpunkte. Man kann aber sowohl
+	auf die Überschrift eines Bereiches Klicken, als auch auf den Unterpunkt "> FAQ" und
+	man kommt beide male auf die FAQ Seite des Themenbereichs. Während die Unterpunkte mit
+	einem ">" gekennzeichnet sind an dem man noch am ehesten erkennen kann, dass das ein
+	weiterführender Link ist, kann man das an der Überschrift gar nicht erkennen.
+	Weiter unten kann man beispielsweise im Bereich "Kontakt" sowohl auf den Titel, auf das Bild 
+	als auch auf den Button "zum Kontakt" gehen und kommt immer zur gleichen Seite.
+
+	Screenshot(s): n006-DN-DoubleLinks.jpg
+
+	Heuristik: Konsistenz
+
+	Wie reproduzierbar: Kundenservice 
+
+o Unterpunkte bei den Themen im Kundenservice sind in unterschiedlicher Reihenfolge, trotz gleicher Bedeutung
+
+	In den ersten drei Bereichen ist zB der FAQ Link ganz oben, bei den Bereichen
+	"UPC TV App" und "Wi-Free" als zweiter Punkt (also ganz unten) und bei dem Bereich
+	"Rechnung & Vertrag" wieder ganz oben, jedoch nicht nur mit FAQ betitelt, sondern als
+	"FAQ Vertrag & Rechnung"
+
+	Video clip:	n001-DN-UnterpunkteKundenservice.mp4
+
+	Heuristik: Konsistenz
+
+	Wie reproduzierbar: Kundenservice
+
+o Sprache des Benutzers im Kundenservice beim Themengebiet "Wi-Free" (Betitelung)
+
+	Man weiß nicht genau was "Wi-Free" bedeuten soll.
+
+	Screenshot(s):	n0013-DN-Wi-Free.jpg
+
+	Heuristik: Sprache des Benutzers
+
+	Wie reproduzierbar: Kundenservice/Wi-Free
+
+
+o Unterschiedliche Designs auf gleicher Webseite ohne erkennbaren Unterschied zwischen den Bereichen
+
+	Nach den Bereich "Rechnung & Vertrag" kommt ein Bereich "Kontakt", jedoch mit einem
+	Logo, keinen Links aber dafür mit einem Kurzen Test und einem Button. Dieses Design
+	zieht sich durch über vier Bereiche. Danach folgt ein weiterer Abschnitt mit einem 
+	anderen Design. Dort sind wieder nur Überschriften, ein Text und ein Button jedoch
+	hat der Button ein anderes Desgin als die vorherigen.
+	Weiters gibt es keinen roten Faden im Desgin: wenn man etwa auf eine FAQ Link geht, so
+	kommt man auf eine Seite die eigentlich inhaltich gleich aufgebaut ist wie die Seite
+	vom Kundenservice sich jedoch vollkommen vom Desgin her unterscheidet (keine hellere
+	hinterlegung der Bereiche, Links in anderer Farbe und Größe, Überschriften ganz anders,
+	Buttons,...).
+
+	Screenshot(s):	n001-DN-Design1.jpg , n001-DN-Design2.jpg
+	Video clip:	n002-DN-Design.mp4
+
+	Heuristik: Ästhetik und minimales Design, Konsistenz
+
+	Wie reproduzierbar: 	Kundenservice
+				Kundenservice -> FAQ (eines Themengebiets)
+
+o Unterschiedliche FAQ Seiten
+
+  	Klickt man auf FAQ wird man nicht immer zur gleichen FAQ Seite (gleich vom Design)
+	weitergeleitet. Einmal kommt man auf die Seite als würde man das FAQ nach diesem Thema
+	durchsucht haben und einmal auf eine eigene FAQ die wiederum weiter Links hat welche auf 
+	eigene Seiten führen.
+
+	Screenshot(s):  n003-DN-FAQpage1.jpg , n003-DN-FAQpage2.jpg
+
+	Heuristik:  Konsistenz
+
+	Wie reproduzierbar:  Kundenservice -> FAQ (Mobil) vgl. mit Kundenservice -> FAQ (Wi-Free)
+
+o Schwieriges zurechtfinden auf der Seite
+
+  	Will man beispielsweise einen Speedtest machen muss man lange suchen wenn man nicht weiß
+	wo man hingehen muss.
+
+  	Video clip:     n003-DN-SchwierigesZurechtfinden.mp4
+
+	Heuristik:  Flexibilität und Effizienz
+
+	Wie reproduzierbar:  wenn man es nicht weiß -> Seite durchsuchen
+				wenn man es weiß -> unter Kundenservice -> Speedtest
+
+o Sprache des Benutzers auf der Speedtest-Seite
+
+	Es gibt ein Pop-Up das man mit "Dismiss" schließen kann/muss -> Englisch auf Deutscher Seite
+	Außerdem sind die Lizenzen auch auf Englisch angegeben
+	
+	Screenshot(s): 	n005-DN-Speedtest.jpg
+	Video clip:	n004-DN-SpracheSpeedtestSeite.mp4
+
+	Heuristik: Sprache des Benutzers
+
+	Wie reproduzierbar: Kundenservice/Speedtest
+
+o Rückmeldung des Systems beim Speedtest
+
+	Zwischen der Überprüfung der Download und er Uploadgeschwindigkeit liegen etwa 10 Sekunden
+	in denen der Benutzer nicht weiß was gerade passiert
+	
+	Video clip:	n005-DN-RückmeldungSpeedtest.mp4
+
+	Heuristik: Rückmeldung des Systemzustandes (Feedback)
+
+	Wie reproduzierbar: Kundenservice/Speedtest
+
+o Erneuter Speedtest zur gleichen Station
+
+	Man kann den Speedtest wiederholen und die Datenpakete zu einer gewünschten Station sende, welche man 
+	auswählen kann, jedoch beides mal die gleiche Station.
+	
+	Screenshot(s): 	n007-DN-SpeedtestStations.jpg
+
+	Heuristik: Fehlervermeidung, Konsistenz
+
+	Wie reproduzierbar: Kundenservice/Speedtest
+
+o Keine Umkehrbaren Aktionen
+
+	Man kann nicht zurücknavigieren wenn man auf einer Seite ist, sondern kommt wieder auf die gleiche Seit
+		
+	Video clip:	n006-DN-UmkehrbareAktionen1.mp4 , n006-DN-UmkehrbareAktionen2.mp4
+
+	Heuristik: Umkehrbare Aktionen
+
+	Wie reproduzierbar: Kundenservice/<Thema>/FAQ/<weiterführenderLink>
+
+o Doppelte Navigation in den FAQ-Seiten
+
+	Wenn man in ein Themengebiet geht kommt man auf eine Seite auf der man ganz oben die Auswahl hat
+	Links aus einem Drop-Down Menü auszuwählen und gleich darunter die gleichen Links nebeneinander
+		
+	Video clip:	n007-DN-DoppelteNavigation.mp4
+
+	Heuristik: Rückmeldung des Systemzustandes (Feedback)
+
+	Wie reproduzierbar: Kundenservice/Internet
+
+o Text ist nicht immer ganz Ausgeschrieben auf den FAQ Seiten
+
+	Wenn ein Titel eines weiterfürhenden Links zu lang ist wird "..." angehängt. Man weiß nicht um
+	was es dabei geht!
+		
+	Video clip:	n008-DN-Text.mp4
+
+	Heuristik: Fehlervermeidung, Sprache des Benutzers
+
+	Wie reproduzierbar: Kundenservice/Internet/FAQ
+
+o Keine klaren Betitelungen der weiterführenden Links im FAQ
+
+	Der Nutzer kann nicht immer eindeutig erkennen was ein Titel bedeuten soll bzw. was für eine 
+	Hilfestellung man dann auf der Seite bekommt.
+	
+	Video clip:	n008-DN-Text.mp4
+
+	Heuristik: Umkehrbare Aktionen, Konsistenz, Fehlervermeidung
+
+	Wie reproduzierbar: Kundenservice/Internet/FAQ
+
+o Unterschiedliche Positionierung der Suchleiste im FAQ
+
+	Um das FAQ zu durchsuchen gibt es auf manchen Seiten unten und auf manchen Seiten oben die Möglichkeit.
+	
+	Video clip:	n009-DN-Suchleiste.mp4
+
+	Heuristik: Erkennen ist besser als Erinnern
+
+	Wie reproduzierbar: Kundenservice & Kundenservice/<Thema>/FAQ
+
+o Inkonsistenz bei Umkehrbaren Aktionen
+
+	Einmal kann ich nicht zurücknavigieren (siehe "Keine Umkehrbaren Aktionen" oben) und einmal habe ich die
+	Möglichkeit zurückzunavigieren.	
+
+	Screenshot(s): 	n008-DN-InkonsistenziesReturnActions.jpg
+
+	Heuristik: Konsistenz
+
+	Wie reproduzierbar: Kundenservice/<Thema>/FAQ
+
+o Keine klare Strukturierung der Verlinkung zwischen den Seiten
+
+	Man kann weiterführenden Links folgen, jedoch ist kaum ersichtlich, wie ich sonst zu der Seite kommen
+	könnte.	
+
+	Video clip:	n0010-DN-VerlinkungZwSeiten.mp4
+
+	Heuristik: Erkennen ist besser als Erinnern, Umkehrbare Aktionen, Fehlervermeidung
+
+	Wie reproduzierbar: Kundenservice/Internet/Anleitungen/Sicher surfen/Sicherheit/...
+
+o Link zu einer Blank Page
+
+	Folgt man der Navigation (siehe Wie reproduzierbar) kommt man durch klicken auf den Link auf eine leere 
+	Seite bzw. es wird nichts geladen.
+	
+	Video clip:	n0011-DN-BlankPage.mp4
+
+	Heuristik: Rückmeldung des Systemzustand
+
+	Wie reproduzierbar: Kundenservice/Internet/Anleitungen/Sicher surfen/Sicherheit/Internet
+
+o Allgemeine Suchleiste ist nicht immer Verfügbar
+
+	Im Hauptmenü kann man gar nicht suchen, dazu muss man erst in eine weiter Seite gehen	
+	
+	Screenshot(s): 	n009-DN-Searchline1.jpg , n009-DN-Searchline2.jpg
+
+	Heuristik: Konsistenz, Flexibilität und Effizienz
+
+	Wie reproduzierbar: Index Seite & weiterführender Link (zB in Kundenservice)
+
+o Unklare Betitelungen von PDFs bei Suchergebnissen
+
+	Wenn man die Suchenfunktion verwendet, kommt man auf eine eigene Seite mit allen relevanten Treffern. Jeder
+	Treffer hat einen Titel, einen Link, eine kurze Information über den Inhalt und ein PDF Download (wenn Ergebnis
+	eine PDF-Datei). Die Titel der unterschiedlichen Ergebnisse sind jedoch die Titel der PDFs und diese wiederum
+	für den Nutzer vollkommen willkürlich benannt.
+	
+	Video clip:	n0012-DN-PDFsTitel.mp4
+
+	Heuristik: Sprache des Benutzers verwenden, Hilfe und Dokumentation, Fehlervermeidung
+
+	Wie reproduzierbar: Kundenservice/Suchen
+
+o Titelbilder nicht richtig positioniert
+
+	Auf einigen Seiten sind die Titelbilder nur kleine Ausschnitte größerer Bilder und bei manchen ist
+	zusätzlich davor noch Text.
+	
+	Screenshot(s): 	n0010-DN-Titlepicture1.jpg , n0010-DN-Titlepicture2.jpg , n0010-DN-Titlepicture3.jpg
+
+	Heuristik: Ästhetik und minimales Design, Konsistnz
+
+	Wie reproduzierbar: Kundenservice/Internet/Sicherheit & Kundenservice/Internet/Sicherheit/Sicherheitsleitfaden
+
+o Tarife können nicht richtig verlgichen werden
+
+	Man kann immer nur einen Tarif um den Anderen durchsehen	
+
+	Video clip:	n0013-DN-Tarifvergleich.mp4
+
+	Heuristik: Flexibilität und Effizienz, Fehlervermeidung
+
+	Wie reproduzierbar: Startseite/<Tarif-Sparte> (zB: Internet)
+
+o Zugriff auf den Warenkorb fehlt
+
+	Es ist nicht ersichtlich wie der Warenkorb erreicht werden kann
+	
+	Video clip:	n0014-DN-Warenkorb.mp4
+
+	Heuristik: Flexibilität und Effizienz, Fehlervermeidung
+
+	Wie reproduzierbar: Startseite
+
+o Inkonsistenz des Designs bei der Tarif-Seite
+
+	Um weiter Informationen zu Tarifen zu bekommen kann man einerseits einmal links die Details ausklappen und
+	dann noch weiter rechts weitere Informationen ausklappen.
+	Einmal wird bei den Tarifen in der rechten oberen Ecke angezeigt das dieser in Aktion ist und bei den 
+	Handy-Tarigen stehen dort jedoch die inkludierten Gigabyte.
+
+	Video clip:	n0015-DN-DesignTarif1.mp4 , n0015-DN-DesignTarif2.mp4
+
+	Heuristik: Konsistenz
+
+	Wie reproduzierbar: Startseite/<Tarif-Sparte> (zB: Internet)/<Tarif>
+
+o Es könne keine Produkte aus dem Warenkorb wieder entfernt werden
+
+	Wenn man in seinem Warenkorb ist dann kann man nur weiter zum Bezahlen.	
+
+	Screenshot(s): 	n0011-DN-DeleteFromBasket.jpg
+
+	Heuristik: Umkehrbare Aktionen, Fehlervermeidung
+
+	Wie reproduzierbar: Startseite/<Tarif-Sparte> (zB: Internet)/<Tarif>/Bestellen
+
+o Inkonsistenz der Linkbelegung auf der Startseite
+
+	Während Kundenservice und Shopfinder ein Link zu einer anderen Seite sind, öffnet "Kontakt"
+	ein Pop-up	
+
+	Video clip:	n0016-DN-LinksStartseite.mp4
+
+	Heuristik: Konsistenz
+
+	Wie reproduzierbar: Startseite
+
+o Nicht eindeutiges Design auf der Kontaktseite
+
+	Manche Zeilen sind blau geschrieben (was eigentlich auf einen Link hindeutet, was jedoch kein Link ist)
+	andere sind wiederum fett geschrieben, jedoch unregelmäßig und es gibt manchmal Buttons mit Links zu anderen 
+	Seiten.	
+
+	Screenshot(s): 	n0012-DN-DesignOnContactPage.jpg
+
+	Heuristik: Konsistenz, Ästhetik und minimales Design
+
+	Wie reproduzierbar: Startseite/Shopfinder/(im Drop-Down-Menü oben)/Kontaktinformationen
+			oder: Startseite -> ganz unten im grauen Feld -> Kontakt
+
+o Angaben verschiedener Telefonnummern
+
+	Es gibt regional verschiedene Hotlines mit unterschiedlichen Telefonnummern (zB Graz vs Wien). Im Pop-up Feld
+	auf der Startseite wird mir die Wiener Telefonnummer angezeigt dabei bräuchte ich jedoch die Grazer Nummer.	
+
+	Video clip:	n0017-DN-Telefonnummern.mp4
+
+	Heuristik: Fehlervermeidung
+
+	Wie reproduzierbar: Startseite
+
+o Nur im Menü gibt es einen Link zum Blog
+
+	Auf der Startseite gibt es nur die Möglichkeit über des Menü links zum UPC Blog zu kommen	
+
+	Video clip:	n0018-DN-Blog.mp4
+
+	Heuristik: Konsistenz, Erkennen ist besser als Erinnern
+
+	Wie reproduzierbar: Startseite -> Menü
+
+o Login geht nur über eine Desktop-Page
+
+	Wenn man sich anmelden will wird man auf eine Desktop-Page weitergeleitet - das sollte jedoch auch anderes möglich sein!
+
+	Video clip:	n0019-DN-LoginDesktopseite.mp4
+
+	Heuristik: Fehlervermeidung, Flexibilität und Effizienz
+
+	Wie reproduzierbar: Startseite -> rechts oben -> Dropdown-Menü
+
+o Keine Rückmeldung nachdem man den Standort eingegeben hat auf der Shopfinder-Seite
+
+	Gibt man einen Standort ein und drück öffnen auf der Tastatur passiert nichts
+
+	Video clip:	n0020-DN-RückmeldungShopfinder.mp4
+
+	Heuristik: Rückmeldung des Systemzustandes
+
+	Wie reproduzierbar: Startseite/Shopfinder
+
+o Man kann falsche Daten eingeben auf der Shopfinder-Seite
+
+	Man kann nicht-österreichische PLZ eingeben (zB 80108 -> dann ist man in Denver) oder kann sich auch
+	die Routen von irgendwo bis zum nächsten UPC Standort berechnen lassen (etwa von Moskau)
+
+	Video clip:	n0021-DN-FalscheDatenShopfinder.mp4
+
+	Heuristik: Fehlervermeidung
+
+	Wie reproduzierbar: Startseite/Shopfinder
+
+o Seitliches Menü verändert sich
+
+	Während man die meiste Zeit bei Fernsehen kein Drop-Down Menü hat, gibt es auf einmal eines wenn man sich unter
+	UPC Mobile für alle unter 30 befindet
+
+	Video clip:	n0022-DN-Menue.mp4
+
+	Heuristik: Konsistenz
+
+	Wie reproduzierbar: Startseite/Mobile/Für alle unter 30
