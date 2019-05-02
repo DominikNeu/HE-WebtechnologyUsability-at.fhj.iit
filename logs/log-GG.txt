@@ -1,0 +1,183 @@
+﻿Evaluator: Gerald Gsellmann
+Alter: 34
+Geschlecht: männlich
+Gerät: Iphone 5S
+Betriebssystem und Version: iOS 12.2
+Webbrowser und Version: Safari
+Ad Blocker: none
+Internetverbindung Typ: A1 WLAN
+Internetverbindung Download Geschwindigkeit: 12 mbps
+Bildschirmgröße: 4″
+Bildschirmauflösung: 1136 × 640
+Browserauflösung: 1136 × 640
+Datum der Evaluierung: 2019-04-23
+Uhrzeit der Evaluierung: 13:00-14:00
+
+
+Positive Beobachtungen
+----------------------
+
+o Kundenservice leicht erreichbar
+
+  Man kommt schnell und einfach auf die Seite des Kundenservices und kann UPC so
+  schnell und einfach erreichen.
+
+  Screenshot(s):  
+  Video clip:     p-gg-kundenservice.mp4
+
+  Wie reproduzierbar:  Verzeichnisreiter → Kundenservice
+
+
+o Verfügbarkeitscheck funktioniert ohne Probleme
+
+  Der Verfügbarkeitscheck für meine Wohnadresse hat einfach und intuitiv funktioniert. Gibt man z.B. die
+  Anfangsbuchstaben des Straßennamens ein, dann kommen sofort Vorschläge.
+
+  Screenshot(s):  p-gg-verfügbarkeitscheck.png
+  Video clip:     
+
+  Wie reproduzierbar:  Verzeichnisreiter → Kundenservice → Verfügbarkeitscheck
+
+
+o Verschiedene Anleitungen zu den Produkten
+  
+  Um es den Kunden bei Problemen mit den Produkten leichter zu machen, gibt es Anleitungen, wie sie leicht
+  die Probleme lösen können.
+
+  Screenshot(s):  p-gg-anleitungen.png
+  Video clip:     
+
+  Wie reproduzierbar:  Verzeichnisreiter → Kundenservice → Internet → Anleitungen
+
+
+Probleme
+--------
+
+o Inhalt des Warenkorbs nicht löschbar
+
+  Wenn man ein Internetprodukt auswählt und auf "Bestellen" klickt,
+  dann wird man zum Warenkorb weitergeleitet, aber man kann den Inhalt
+  weder löschen bzw. irgendwo einsehen.
+
+  Screenshot(s):  
+  Video clip:     n-gg-warenkorb.mp4
+
+  Heuristik:      Umkehrbare Aktionen
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen
+
+
+o Schwierigkeit den Speedtest zu finden
+
+  Es gibt keinen direkten Link um einen Speedtest zu machen, sondern das funktioniert
+  nur über Umwege. Erst später kommt man drauf, dass es einen eigenen Link im Kundenservice gibt.
+  
+
+  Screenshot(s):  n-gg-speedtest-kundenservice.png
+  Video clip:     n-gg-speedtest.mp4
+
+  Heuristik:      Erkennen ist besser als Erinnern
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Speedtest
+
+
+o Ein Link der auf die selbe Seite verweist
+
+  Will man einen Speedtest machen, dann findet man auf der selben Seite einen Link, welcher wieder zur selben Seite
+  (Speedtest) führt.
+
+  Screenshot(s):  
+  Video clip:     n-gg-speedtest-link.mp4
+
+  Heuristik:      Umkehrbare Aktionen
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Speedtest → Link Speedtest
+
+
+o Home Button anklicken funktioniert nicht
+
+  Manchmal ist der Home Button im Verzeichnisreiter kleiner als sonst und es passiert nichts, wenn man ihn berührt.
+  Berührt man aber die Fläche daneben, dann wird man auf die Startseite weitergeleitet.
+
+  Screenshot(s):  
+  Video clip:     n-gg-home-button.mp4
+
+  Heuristik:      Fehlervermeidung
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen
+
+
+o Desktop Ansicht wird angezeigt und nicht die mobile Ansicht
+
+  Wenn man den Link "Digital Telefon" anklickt, dann kommt man automatisch auf die Desktop Ansicht.
+  
+  Screenshot(s):  n-gg-desktopansicht.png
+  Video clip:     
+
+  Heuristik:      Fehlervermeidung
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Digital Telefon
+
+
+o Keine Möglichkeit Tarife zu vergleichen
+
+  Will man einen Internet- oder Handytarif untereinander vergleichen, dann ist dies nicht möglich.
+  
+  Screenshot(s):  
+  Video clip:     n-gg-tarife-nicht-vergleichbar.mp4
+
+  Heuristik:      Flexibilität und Efﬁzienz
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Produkte versuchen zu vergleichen
+
+
+o Verzeichnisreiter ändert sich
+
+  Klickt man sich durch die unterschiedlichen Verzeichnisse im Verzeichnisreiter, dann sind mal mehr, mal weniger
+  Optionen zur Auswahl möglich.
+  
+  Screenshot(s):  n-gg-verzeichnisreiter-1.png
+                  n-gg-verzeichnisreiter-2.png
+  Video clip:     
+
+  Heuristik:      Konsistenz
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet
+
+
+o Link funktioniert nicht richtig
+
+  Bei "Sicherheit im Web" befindet sich ganz unten ein Link, der einen zu den Internetprodukten leiten sollte.
+  Klickt man diesen jedoch an, dann landet man auf einer leeren Seite.
+  
+  Screenshot(s):  
+  Video clip:     n-gg-link-funktioniert-nicht.mp4
+
+  Heuristik:      Rückmeldung des Systemzustandes (Feedback)
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → Sicherheit → Link     Internet
+
+
+o Text verschoben
+
+  Der Text ragt über das Bild hinaus.
+  
+  Screenshot(s):  n-gg-text-verschoben.png
+  Video clip:     
+
+  Heuristik:      Ästhetik und minimales Design
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → WLAN erleben →   Kundenservice WLAN
+
+
+o Die Farben der Links sind anders
+
+  Auf einer bestimmten Seite ändert sich aufeinmal die Farben der Links.
+  
+  Screenshot(s):  n-gg-link-farbe-anders-1.png
+                  n-gg-link-farbe-anders-2.png
+  Video clip:     
+
+  Heuristik:      Konsistenz
+
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → WLAN erleben →     Kundenservice WLAN → nach unten scrollen
