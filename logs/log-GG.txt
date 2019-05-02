@@ -23,7 +23,7 @@ o Kundenservice leicht erreichbar
   schnell und einfach erreichen.
 
   Screenshot(s):  
-  Video clip:     p-gg-kundenservice.mp4
+  Video clip:     p03-GG-kundenservice.mp4
 
   Wie reproduzierbar:  Verzeichnisreiter → Kundenservice
 
@@ -33,7 +33,7 @@ o Verfügbarkeitscheck funktioniert ohne Probleme
   Der Verfügbarkeitscheck für meine Wohnadresse hat einfach und intuitiv funktioniert. Gibt man z.B. die
   Anfangsbuchstaben des Straßennamens ein, dann kommen sofort Vorschläge.
 
-  Screenshot(s):  p-gg-verfügbarkeitscheck.png
+  Screenshot(s):  p04-GG-verfügbarkeitscheck.png
   Video clip:     
 
   Wie reproduzierbar:  Verzeichnisreiter → Kundenservice → Verfügbarkeitscheck
@@ -44,7 +44,7 @@ o Verschiedene Anleitungen zu den Produkten
   Um es den Kunden bei Problemen mit den Produkten leichter zu machen, gibt es Anleitungen, wie sie leicht
   die Probleme lösen können.
 
-  Screenshot(s):  p-gg-anleitungen.png
+  Screenshot(s):  p12-GG-anleitungen.png
   Video clip:     
 
   Wie reproduzierbar:  Verzeichnisreiter → Kundenservice → Internet → Anleitungen
@@ -60,7 +60,7 @@ o Inhalt des Warenkorbs nicht löschbar
   weder löschen bzw. irgendwo einsehen.
 
   Screenshot(s):  
-  Video clip:     n-gg-warenkorb.mp4
+  Video clip:     n03-GG-warenkorb.mp4
 
   Heuristik:      Umkehrbare Aktionen
 
@@ -73,8 +73,8 @@ o Schwierigkeit den Speedtest zu finden
   nur über Umwege. Erst später kommt man drauf, dass es einen eigenen Link im Kundenservice gibt.
   
 
-  Screenshot(s):  n-gg-speedtest-kundenservice.png
-  Video clip:     n-gg-speedtest.mp4
+  Screenshot(s):  n04-GG-speedtest-kundenservice.png
+  Video clip:     n04-GG-speedtest.mp4
 
   Heuristik:      Erkennen ist besser als Erinnern
 
@@ -87,7 +87,7 @@ o Ein Link der auf die selbe Seite verweist
   (Speedtest) führt.
 
   Screenshot(s):  
-  Video clip:     n-gg-speedtest-link.mp4
+  Video clip:     n36-GG-speedtest-link.mp4
 
   Heuristik:      Umkehrbare Aktionen
 
@@ -100,7 +100,7 @@ o Home Button anklicken funktioniert nicht
   Berührt man aber die Fläche daneben, dann wird man auf die Startseite weitergeleitet.
 
   Screenshot(s):  
-  Video clip:     n-gg-home-button.mp4
+  Video clip:     n27-GG-home-button-bug.mp4
 
   Heuristik:      Fehlervermeidung
 
@@ -111,7 +111,7 @@ o Desktop Ansicht wird angezeigt und nicht die mobile Ansicht
 
   Wenn man den Link "Digital Telefon" anklickt, dann kommt man automatisch auf die Desktop Ansicht.
   
-  Screenshot(s):  n-gg-desktopansicht.png
+  Screenshot(s):  n33-GG-desktopansicht.png
   Video clip:     
 
   Heuristik:      Fehlervermeidung
@@ -124,7 +124,7 @@ o Keine Möglichkeit Tarife zu vergleichen
   Will man einen Internet- oder Handytarif untereinander vergleichen, dann ist dies nicht möglich.
   
   Screenshot(s):  
-  Video clip:     n-gg-tarife-nicht-vergleichbar.mp4
+  Video clip:     n07-GG-tarife-nicht-vergleichbar.mp4
 
   Heuristik:      Flexibilität und Efﬁzienz
 
@@ -136,8 +136,8 @@ o Verzeichnisreiter ändert sich
   Klickt man sich durch die unterschiedlichen Verzeichnisse im Verzeichnisreiter, dann sind mal mehr, mal weniger
   Optionen zur Auswahl möglich.
   
-  Screenshot(s):  n-gg-verzeichnisreiter-1.png
-                  n-gg-verzeichnisreiter-2.png
+  Screenshot(s):  n15-GG-verzeichnisreiter-1.png
+                  n15-GG-verzeichnisreiter-2.png
   Video clip:     
 
   Heuristik:      Konsistenz
@@ -151,33 +151,33 @@ o Link funktioniert nicht richtig
   Klickt man diesen jedoch an, dann landet man auf einer leeren Seite.
   
   Screenshot(s):  
-  Video clip:     n-gg-link-funktioniert-nicht.mp4
+  Video clip:     n01-GG-link-funktioniert-nicht.mp4
 
   Heuristik:      Rückmeldung des Systemzustandes (Feedback)
 
-  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → Sicherheit → Link     Internet
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → Sicherheit → Link       Internet
 
 
 o Text verschoben
 
   Der Text ragt über das Bild hinaus.
   
-  Screenshot(s):  n-gg-text-verschoben.png
+  Screenshot(s):  n55-GG-text-verschoben.png
   Video clip:     
 
   Heuristik:      Ästhetik und minimales Design
 
-  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → WLAN erleben →   Kundenservice WLAN
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → WLAN erleben →     Kundenservice WLAN
 
 
 o Die Farben der Links sind anders
 
   Auf einer bestimmten Seite ändert sich aufeinmal die Farben der Links.
   
-  Screenshot(s):  n-gg-link-farbe-anders-1.png
-                  n-gg-link-farbe-anders-2.png
+  Screenshot(s):  n48-GG-link-farbe-anders-1.png
+                  n48-GG-link-farbe-anders-2.png
   Video clip:     
 
   Heuristik:      Konsistenz
 
-  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → WLAN erleben →     Kundenservice WLAN → nach unten scrollen
+  Wie reproduzierbar: Verzeichnisreiter → Internet → Internet Produkte → Bestellen → Verzeichnisreiter → Internet → WLAN erleben →       Kundenservice WLAN → nach unten scrollen
