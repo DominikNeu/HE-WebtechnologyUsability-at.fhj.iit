@@ -22,7 +22,7 @@ o Guter Pfad
   Am Ende der Seite kann man sehen wie Tief man in einem Unterpunkt ist und kann dort auf frühere unterpunkte clicken um dort hinzugelangen
 
   Screenshots:
-  p-JP-Pfad.PNG
+  p05-JP-Pfad.PNG
 
   Wie reproduzierbar: Am Ende von Seiten zu finden
 
@@ -31,7 +31,7 @@ o Downloadable content
   Man kann im Kundenservice Anleitungen und ähnliche Dinge als PDF Datein downloaden 
 
   Screenshots:
-  p-JP-DLC.mp4
+  p09-JP-DLC.mp4
 
   Wie reproduzierbar: Auf Seite "Kundenservice" zB in der Unterkategorie "Fernsehen" "Anleitungen" auswählen
 
@@ -44,10 +44,10 @@ o Redundanz unter Kundenservice
   es gibt beim Kundenservice sowohl oben drop down listen als auch generell Felder die einen das selbe auswählen lassen
 
   Screenshots:
-  n-JP-KundenserviceRedundanz.PNG
-  n-JP-KundenserviceRedundanz2.PNG
-  n-JP-KundenserviceRedundanz3.PNG
-  n-JP-KundenserviceRedundanz4.PNG
+  n28-JP-KundenserviceRedundanz.PNG
+  n28-JP-KundenserviceRedundanz2.PNG
+  n28-JP-KundenserviceRedundanz3.PNG
+  n28-JP-KundenserviceRedundanz4.PNG
 
   Heuristik: Ästhetik und minimales Design
 
@@ -58,8 +58,8 @@ o Andere Designs
   Die auflistung der verschiedenen Unterbereiche hat auf zwei Seiten ein anderes Design
 
   Screenshots:
-  n-JP-Designkonsistenz.PNG
-  n-JP-Designkonsistenz2.PNG
+  n11-JP-Designkonsistenz.PNG
+  n11-JP-Designkonsistenz2.PNG
 
   Heuristik: Konsistenz
 
@@ -70,7 +70,7 @@ o Fehlermeldung fehlt
   wenn man bei verfügbarkeitscheck eine falsche straße eingibt wird einem nichtangezeigt dass es die Straße nicht gibt sobald man aus dem Feld clickt
 
   Screenshots:
-  n-JP-Fehlermeldung.mp4
+  n16-JP-Fehlermeldung.mp4
 
   Heuristik: Gute Fehlermeldungen
 
@@ -81,7 +81,7 @@ o Weg zum Streamingservice
   Es gibt keinen einfachen Weg um zur Startseite des UPC Streamingservice "UPC On Demand" zu gelangen. der einzige gefundene Weg führt dort nur über umwege
 
   Screenshots:
-  n-JP-OnDemand.mp4
+  n17-JP-OnDemand.mp4
 
   Heuristik: Flexibilität und Effizienz
 
@@ -92,7 +92,7 @@ o Unnötiges Popup
   Auf vielen seiten gibt es am linken bildschirmrand ein Popup welches nach einigen Sekunden sich öffnet und Teile der Seiteninformationen verdeckt
 
   Screenshots:
-  n-JP-Popup.mp4
+  n35-JP-Popup.mp4
 
   Heuristik: Ästhetik und minimales Design
 
@@ -103,8 +103,8 @@ o Popup
   Bei dem Kontakt Popup wird die Bestellhotline Nummer angegeben anstatt einer der Kontakt Nummern
 
   Screenshots:
-  n-JP-BestellhotlineNr.PNG
-  n-JP-BestellhotlineNr2.PNG
+  n24-JP-BestellhotlineNr.PNG
+  n24-JP-BestellhotlineNr2.PNG
 
   Heuristik: Fehlervermeidung
 
@@ -115,7 +115,7 @@ o Nicht immer Ein Link
   Am Ende jeder Seite gibt es ein paar Links aufzufinden die in verschiedene Kategorien eingeteilt werden. Allerdings sind 2 dieser Kategorientitel Links und 2 nicht
 
   Screenshots:
-  n-JP-Links.mp4
+  n31-JP-Links.mp4
   
 
   Heuristik: Konsistenz
@@ -127,7 +127,7 @@ o Unterschiedlich Link Markierung
   Am Ende jeder Seite gibt es 2 Grau hinterlegte Felder die durch eine weiße Linie unterteilt werden. In jedem dieser Felder sind Links. Fährt man im oberen über einen Link wird der Text dunkler, unten wird der Text unterstrichen
 
   Screenshots:
-  n-JP-Links2.mp4
+  n54-JP-Links2.mp4
 
   Heuristik: Konsistenz
 
@@ -138,7 +138,7 @@ o Informations Popup zu groß
   Manche Popups sind so groß dass der Knopf zum schließen fast nicht mehr zu sehen ist und man nichteinmal mehr das "X" sehen kann.
 
   Screenshots:
-  n-JP-Popupgröße.PNG
+  n18-JP-Popupgröße.PNG
 
   Heuristik: Fehlervermeidung
 
@@ -149,8 +149,8 @@ o Unterkategorien nicht immer vorhanden
   Nicht alle Überkategorien zeigen wenn man sie angeclickt hat unterkategorien an
 
   Screenshots:
-  n-JP-Kategorien.PNG
-  n-JP-Kategorien2.PNG
+  n42-JP-Kategorien.PNG
+  n42-JP-Kategorien2.PNG
 
   Heuristik: Konsistenz
 
@@ -161,8 +161,8 @@ o Knopf inkonsistenz
   Manche Knöpfe die tun unterschiedliche Dinge obwohl sie exakt gleich aussehen. einmal ist es ein Dropdown Knopf ein weiteres mal ein Link zu einer neuen Seite ein anderes mal wird man weiter unten auf die Seite geworfen
 
   Screenshots:
-  n-JP-Knopf.mp4
-  n-JP-Knopf2.mp4
+  n05-JP-Knopf.mp4
+  n05-JP-Knopf2.mp4
 
   Heuristik: Konsistenz
 
@@ -173,7 +173,7 @@ o Wi-Free
   Einer der Unterpunkte auf der Seite "WLAN erleben" ist betitelt "Wi-Free" was nicht die Sprache des Benutzers ist
 
   Screenshots:
-  n-JP-Wi-Free.PNG
+  n46-JP-Wi-Free.PNG
 
   Heuristik: Sprache des Benutzers verwenden
 
@@ -184,7 +184,7 @@ o Fehlerhafte Bildshirmausrichtung
   Wenn man zuerst das "Apple" Dropdown und anschließend das "Windows Phone 8.0" Dropdown öffnet wird man weiter unten auf der Seite geschmissen
 
   Screenshots:
-  n-JP-Dropdown.mp4
+  n32-JP-Dropdown.mp4
 
   Heuristik: Fehlervermeidung
 
@@ -195,8 +195,8 @@ o Unterschiedliche Seiten
   Man kann auf verschiedene Arten zu einer FAQ seite zu dem selben Thema gelangen es sind aber andere Seiten
 
   Screenshots:
-  n-JP-FAQ.PNG
-  n-JP-FAQ2.PNG
+  n20-JP-FAQ.PNG
+  n20-JP-FAQ2.PNG
 
   Heuristik: Konsistenz
 
