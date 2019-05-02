@@ -1,10 +1,10 @@
-# Heurisitic Evaluation
+# Heuristic Evaluation
 Heuristic Evaluation of the UPC Website done by students of MSD of FH-Joanneum Graz
   ## Members:
       Dominik Neubauer
       Gerald Gsellmann
       Joachim Pollanz
-      Mahamood Attia
+      Mahmood Attia
       
 # Information
   The results are summarized in the report "Heuristische Evaluierung.docx". 
