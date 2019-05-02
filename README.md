@@ -7,7 +7,7 @@ Heuristic Evaluation of the UPC Website done by students of MSD of FH-Joanneum G
       Mahmood Attia
       
 # Information
-  The results are summarized in the report "Heuristische Evaluierung.docx". 
-  The overview of all results int the Excel-sheed "helist.xlsx". 
+  The results are summarized in the report "he.pdf". 
+  The overview of all results in the Excel-sheed "helist.xlsx". 
   In the log directory are the log-files of each evaluator. 
   In the videos and images directorys are the negative/positive results visualized.
