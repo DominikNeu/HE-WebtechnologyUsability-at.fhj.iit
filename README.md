@@ -1,2 +1,13 @@
-# HE-WebtechnologyUsability-at.fhj.iit
-Heuristic Evaluation of the UPC Website done by students of MSD of FHJ Graz
+# Heurisitic Evaluation
+Heuristic Evaluation of the UPC Website done by students of MSD of FH-Joanneum Graz
+  ## Members:
+      Dominik Neubauer
+      Gerald Gsellmann
+      Joachim Pollanz
+      Mahamood Attia
+      
+# Information
+  The results are summarized in the report "Heuristische Evaluierung.docx". 
+  The overview of all results int the Excel-sheed "helist.xlsx". 
+  In the log directory are the log-files of each evaluator. 
+  In the videos and images directorys are the negative/positive results visualized.
